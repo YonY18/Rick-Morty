@@ -1,0 +1,1 @@
+Proyecto desarrollado con React, Redux, Express, utilizando la api de Rick&Morty 
